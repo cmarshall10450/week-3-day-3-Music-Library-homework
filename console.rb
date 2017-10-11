@@ -9,5 +9,8 @@ album_1 = Album.new({
 	'genre' => 'pop'
 })
 
+artist_1.save
+album_1.save
+
 binding.pry
 nil
